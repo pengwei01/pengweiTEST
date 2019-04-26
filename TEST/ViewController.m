@@ -3,8 +3,8 @@
 //  TEST
 //
 //  Created by 彭伟macmini on 2019/4/26.
-//  Copyright © 2019年 pw. All rights reserved.
-//
+
+
 
 #import "ViewController.h"
 
@@ -13,7 +13,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    // Do any additional setup after loading the view.
 }
 
 
