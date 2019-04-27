@@ -13,5 +13,7 @@
 @property (nonatomic, copy) NSString *string;
 
 
+@property (nonatomic, copy) NSString *string1;
+
 @end
 
